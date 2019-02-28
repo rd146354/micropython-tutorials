@@ -1,5 +1,7 @@
 # Admittedly this is pretty heavily modified from the example
-# provided in the tutorial
+# provided in the tutorial. I didn't like the way it handled
+# simultaneous button presses. There was also the issue of the
+# program ending if the timing wasn't perfect.
 
 from microbit import *
 
